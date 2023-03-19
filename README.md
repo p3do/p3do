@@ -6,7 +6,7 @@
 </a><br><br>
   <p align="left">
    <a href ="https://discord.com/channels/@me/1014267997038330061">
-  <img src="https://cdn.discordapp.com/attachments/1069361273407545526/1086938921021214791/image.png"/>
+  <img src="https://cdn.discordapp.com/attachments/1086725539177447487/1086966776757223444/image.png"/>
     </a><br><br>
     <p align="center">
   <a href="https://github.com/p3do">
